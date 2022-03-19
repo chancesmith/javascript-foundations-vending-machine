@@ -72,7 +72,7 @@ function showOptions() {
 }
 showOptions();
 
-// click dropped can
+// listen for click dropped can
 $opening.addEventListener("click", () => {
   $opening.innerHTML = ``;
 });
